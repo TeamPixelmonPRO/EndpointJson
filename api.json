@@ -1,0 +1,36 @@
+{
+    "apis": {
+        "image": {
+            "gyazo": {
+                "config": [
+                    {
+                        "key": "686916898dfc9588c16378912cca7a059975ab07374b5badcb072f90c9fdd9cf"
+                    }
+                ]
+            },
+            "imgur": {
+                "config": [
+                    {
+                        "clientid": "7896a166a54f0bc"
+                    }
+                ]
+            }
+        },
+        "shortener": {
+            "bitly": {
+                "config": [
+                    {
+                        "key": "9a2bae8d0385870dfad9e4ad0b874c468df04149"
+                    }
+                ]
+            },
+            "googl": {
+                "config": [
+                    {
+                        "key": "AIzaSyCbJC4zTqtSRMGrMj1C4_jOesDhrB-TOuM"
+                    }
+                ]
+            }
+        }
+    }
+}
