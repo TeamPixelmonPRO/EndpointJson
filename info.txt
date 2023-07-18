@@ -1,0 +1,2 @@
+0 2c7ab268-7844-3889-8603-0d3022402b00 enchantmenttable
+0 255db1ce-cfc6-35a8-a05b-6a1822730729 witchMagic
